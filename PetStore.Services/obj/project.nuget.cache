@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLipKYWGdAM9QeGaimfDgOmJePeLyqbR7r6Fnps0mDDeYRZQPJQduNmpJ8Q5Rd8wf0cCa6yU/t+odtkQ73vbLw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\PetStoreConsole\\PetStore.Services\\PetStore.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\008bl\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\008bl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
